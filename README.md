@@ -9,4 +9,4 @@ ls  RespecT-DDos.py
 
 chmod 777 RespecT-DDos.py
 
-python RespecT-DDos
+python RespecT-DDos.py
